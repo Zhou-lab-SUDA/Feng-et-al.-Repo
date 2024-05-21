@@ -1,5 +1,5 @@
 # Feng-et-al.-Repo
-## Salmonella enterica HC5_409430 strains isolated from Zhongshan, Guangdong
+## Salmonella enterica HC5_409430 strains isolated from Guangdong
 
 Six isolates carring *bla*NDM-5 of S enterica serovar 4,[5],12:i:- were obtained from two pediatric patients in Zhongshan, Guangdong.
 Two isolates carring *bla*NDM-5 of S enterica serovar 4,[5],12:i:- were obtained from two pediatric patients in Shenzhen, Guangdong.
