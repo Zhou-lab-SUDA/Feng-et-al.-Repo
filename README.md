@@ -1,15 +1,15 @@
 # Feng-et-al.-Repo
 Salmonella HC5_409430 strains isolated from Zhongshan, Guangdong
 
-Six isolates of S enterica serovar 4,[5],12:i:- were obtained from two pediatric patients in Zhongshan, Guangdong.
+Six isolates carring _bla_NDM-5 of S enterica serovar 4,[5],12:i:- were obtained from two pediatric patients in Zhongshan, Guangdong.
 The detailed information of all genomes is as below:
 ~~~
 S1  from patientA (Zhongshan)
-S2  
-S3  
-S6  
-S8  
-S9  
-s23268  
-s23269  
+S2  from patientA (Zhongshan)
+S3  from patientA (Zhongshan)
+S6  from patientB (Zhongshan)
+S8  from patientB (Zhongshan)
+S9  from patientB (Zhongshan)
+s23268  from patientC (Shenzhen)
+s23269  from patientD (Shenzhen)
 ~~~
